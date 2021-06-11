@@ -1,0 +1,1 @@
+(()=>{var r={600:()=>{mp.events.add("render",(()=>{mp.discord.update("LIAMBA ROLE PLAY BASE","liamba.su")}))},983:(r,e,s)=>{s(600)}},e={};(function s(i){var o=e[i];if(void 0!==o)return o.exports;var p=e[i]={exports:{}};return r[i](p,p.exports,s),p.exports})(983),mp.keys.bind(192,!1,(()=>{let r=!mp.gui.cursor.visible;mp.gui.cursor.show(r,r)}))})();

@@ -1,0 +1,16 @@
+{
+  "name": "thelastday_src",
+  "version": "0.0.1",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "cbuild": "webpack",
+    "cwatch": "webpack --watch"
+  },
+  "author": "\u001b[3~",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
+}

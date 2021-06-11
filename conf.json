@@ -1,0 +1,36 @@
+{
+	"announce": true,
+
+	"maxplayers": 350,
+	"language": "ru",
+	"name": "[ru][roleplay][voice]LIAMBA ROLE PLAY BASE | 0.0.1.0",
+	"gamemode": "roleplay",
+	"url": "https://liamba.su/",
+
+	"stream-distance": 500.0,
+	
+	"encryption": false,
+	"port": 22005,
+	"disallow-multiple-connections-per-ip": false,
+	"limit-time-of-connections-per-ip": 0,
+	"sync-rate": 40,
+	"max-ping": 300,
+	"min-fps": 30,
+	"enable-nodejs": true,
+	"csharp": "disabled",
+	"enable-http-security": false,
+
+	"voice-chat": true,
+	"allow-voice-chat-input": 1,
+	"voice-chat-sample-rate": 24000,
+
+	"server-side-weapons-only-mode": true,
+	"api-threading-debugging": false,
+	"resources-compression-level": 1,
+	"synchronization-extrapolation-multiplier": 0.0,
+	"http-threads": 50,
+	"trigger-compression-logging": false,
+	"trigger-compression-training": false,
+	"create-fastdl-snapshot": false,
+	"disable-client-packages-ram-cache": false
+}

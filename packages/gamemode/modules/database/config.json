@@ -1,0 +1,10 @@
+{
+    "main": {
+        "hostname": "localhost",
+        "username": "root",
+        "password": "",
+        "database": "roleplaybase",
+
+        "interval_reconnect": 5
+    }
+}
