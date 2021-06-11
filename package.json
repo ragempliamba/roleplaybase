@@ -1,0 +1,24 @@
+{
+  "name": "roleplaybase",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragempliamba/roleplaybase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ragempliamba/roleplaybase/issues"
+  },
+  "homepage": "https://github.com/ragempliamba/roleplaybase#readme"
+}
